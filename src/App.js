@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React로그가남나요
+          Learn React
         </a>
       </header>
     </div>
